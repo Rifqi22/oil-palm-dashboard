@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+geopandas
+numpy
+rasterio
+shapely
+planetary-computer
+pystac-client
+scikit-image
+scipy
